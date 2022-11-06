@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49a13135.chunk.css",
+    "main.js": "/static/js/main.60a7648e.chunk.js",
+    "main.js.map": "/static/js/main.60a7648e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.082984a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.082984a3.js.map",
+    "static/css/2.24f6e998.chunk.css": "/static/css/2.24f6e998.chunk.css",
+    "static/js/2.2226067c.chunk.js": "/static/js/2.2226067c.chunk.js",
+    "static/js/2.2226067c.chunk.js.map": "/static/js/2.2226067c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.24f6e998.chunk.css.map": "/static/css/2.24f6e998.chunk.css.map",
+    "static/css/main.49a13135.chunk.css.map": "/static/css/main.49a13135.chunk.css.map",
+    "static/js/2.2226067c.chunk.js.LICENSE.txt": "/static/js/2.2226067c.chunk.js.LICENSE.txt",
+    "static/media/Sunil_updated-Resume.dd47a4c6.jpeg": "/static/media/Sunil_updated-Resume.dd47a4c6.jpeg",
+    "static/media/bottom.5037b372.svg": "/static/media/bottom.5037b372.svg",
+    "static/media/css.60a6c50d.svg": "/static/media/css.60a6c50d.svg",
+    "static/media/day.cd6648ba.svg": "/static/media/day.cd6648ba.svg",
+    "static/media/envelope.2a333431.svg": "/static/media/envelope.2a333431.svg",
+    "static/media/express.ea97b712.svg": "/static/media/express.ea97b712.svg",
+    "static/media/html.8daa82ad.svg": "/static/media/html.8daa82ad.svg",
+    "static/media/javascript.00f3e5cf.svg": "/static/media/javascript.00f3e5cf.svg",
+    "static/media/material.fd510ed8.svg": "/static/media/material.fd510ed8.svg",
+    "static/media/mongodb.1aca075d.svg": "/static/media/mongodb.1aca075d.svg",
+    "static/media/next.1b2b52c0.svg": "/static/media/next.1b2b52c0.svg",
+    "static/media/night.90150abb.svg": "/static/media/night.90150abb.svg",
+    "static/media/node.38d424a0.svg": "/static/media/node.38d424a0.svg",
+    "static/media/programming-skills.svg": "/static/media/programming-skills.d19983a9.svg",
+    "static/media/react.e5f031c5.svg": "/static/media/react.e5f031c5.svg",
+    "static/media/sceneOne.b9eb96d1.svg": "/static/media/sceneOne.b9eb96d1.svg",
+    "static/media/sceneOneDark.2d8044dc.svg": "/static/media/sceneOneDark.2d8044dc.svg",
+    "static/media/sunil.c4189494.jpeg": "/static/media/sunil.c4189494.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.082984a3.js",
+    "static/css/2.24f6e998.chunk.css",
+    "static/js/2.2226067c.chunk.js",
+    "static/css/main.49a13135.chunk.css",
+    "static/js/main.60a7648e.chunk.js"
+  ]
+}
