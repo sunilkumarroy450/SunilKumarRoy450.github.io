@@ -85,7 +85,7 @@ function Navigation({ themeToggler, currentTheme }) {
       <NavItem onClick={() => activeLinkHandler(6)}>
         <a href="#contact">Contact</a>
       </NavItem>
-      <NavItem>
+      {/* <NavItem>
         <Switch
           onChange={switchHandler}
           handleDiameter={20}
@@ -123,7 +123,7 @@ function Navigation({ themeToggler, currentTheme }) {
             </div>
           }
         />
-      </NavItem>
+      </NavItem> */}
       {/* <NavItem></NavItem> */}
     </NavBar>
   );

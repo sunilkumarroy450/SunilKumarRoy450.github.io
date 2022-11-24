@@ -45,7 +45,8 @@ let projectArray = [
   {
     img: "https://user-images.githubusercontent.com/101394814/200108387-785853b9-a635-4fd4-bf49-f5c359ec65ef.png",
     title: "Shine.com",
-    description: "Online jobs searching App",
+    description:
+      "Shine.com is the most innovative and second largest online job portal in India. It connects jobseekers and recruiters by accurately matching candidate profiles to the relevant job openings through an advanced 2-way matching technology.",
     techStack: [
       "HTML",
       "CSS",
@@ -72,7 +73,8 @@ let projectArray = [
   {
     img: "https://user-images.githubusercontent.com/101394814/200108228-2ba18402-1b35-44f5-9aa5-198a36ffb814.png",
     title: "CocktailDB",
-    description: "Online cocktail products search.",
+    description:
+      "An open, crowd-sourced database of drinks and cocktails from around the world. It is an individual project built by me using cocktailDB free api.",
     techStack: [
       "HTML",
       "CSS",
@@ -82,8 +84,8 @@ let projectArray = [
       // "Express",
       // "MongoDB",
     ],
-     repoLink: "https://github.com/SunilKumarRoy450/cocktail",
-     demoLink: "https://ubiquitous-lily-c855fc.netlify.app/",
+    repoLink: "https://github.com/SunilKumarRoy450/cocktail",
+    demoLink: "https://ubiquitous-lily-c855fc.netlify.app/",
     type: "A single project built by me in 4 days.",
     //  blogLink: "https://medium.com/@nikhilnik_24208/clone-of-marriott-bonvoy-f3001ab316c5",
     features: [
@@ -92,7 +94,58 @@ let projectArray = [
       "Used API to build this project",
       "Name Searched functionality",
     ],
-    
+  },
+  {
+    img: "https://user-images.githubusercontent.com/101394814/203414368-e7cf9831-8187-4a00-a81b-bdcd346b567f.png",
+    title: "Cult Fit ",
+    description:
+      "Operator of a fitness-based online platform designed to address preventive healthcare techniques. The company's platform addresses the concept of preventive healthcare through a combination of engagement, coaching, and delivery by offering services for mental wellness, healthy food, and fitness through its mobile application.",
+
+    techStack: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+
+      "Node",
+      "Express",
+      "MongoDB",
+    ],
+    repoLink:
+      "https://github.com/SunilKumarRoy450/quickest-seashore-9367-Cultfit.in-Clone",
+    demoLink: "https://cultfit-aayan269.vercel.app/",
+    type: "A collaborative project built by a team of 5 members executed in 4 days.",
+    // blogLink:
+    //   "https://ar1pperk.medium.com/building-a-bike-rental-website-from-scratch-28572c5565f7",
+    features: [
+      "Login and Signup",
+      "A user can choose a location wheather it offline or online after getting their membership ",
+      "User can hire the professional trainer according to their needs ",
+      "A user can choose monthly plans acording to their membership",
+      "A user can pay through online or cash to avail our services",
+      "All the order history is recorded in user profile",
+    ],
+    responsibilities: [
+      "Integrated slick-carousel",
+      "Developed the Fitness and Mind page.",
+      "Responsive Page.",
+    ],
+  },
+
+  {
+    img: "https://user-images.githubusercontent.com/101394814/203420230-0ca394b7-84bc-4667-b76d-6bf039944a0c.png",
+    title: "Himalaya Usa",
+    description:
+      "Himalaya has been passionate about the healing wisdom of herbs. We offer a wide range of clinically-studied herbal supplements, toothpaste and personal care products that unlock the powerful healing benefits of herbs.",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    repoLink: "https://github.com/SunilKumarRoy450/webprobFind",
+    demoLink: "https://tangerine-starburst-8773f7.netlify.app/",
+    type: "Group project",
+    blogLink: "#",
+    features: [
+      "User can find their medication",
+      "User can avail wide range of products of herbs",
+    ],
   },
   // {
   //   img: "https://user-images.githubusercontent.com/39058941/111019686-ec977e00-83e6-11eb-81e8-84625a9e7576.png",

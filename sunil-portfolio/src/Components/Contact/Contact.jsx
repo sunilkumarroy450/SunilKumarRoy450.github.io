@@ -49,7 +49,7 @@ const Form = styled.div`
       margin-bottom: 20px;
       width: 100%;
       input {
-        width: 100%;
+        width: 80%;
         font-size: 19px;
         padding: 10px;
         border-radius: 5px;
@@ -98,7 +98,7 @@ const FindMeElseWhere = styled.div`
 
 const SendButton = styled.button`
   padding: 10px 25px;
-  width: 200px;
+  width: 450px;
   border: none;
   border-radius: 5px;
   font-size: 18px;

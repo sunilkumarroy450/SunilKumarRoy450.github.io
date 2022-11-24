@@ -4,10 +4,9 @@ import Navigation from "./Navigation";
 import Lottie from "react-lottie";
 import scroll from "../Animations/scrollDown.json";
 // import aditya from "../Images/aditya.png";
-import sunil from '../Images/sunil.jpeg'
+import sunil from "../Images/sunil.jpeg";
 
-
-import {ParagraphWrapper } from "../Elements/Elements";
+import { ParagraphWrapper } from "../Elements/Elements";
 
 const scrollOptions = {
   loop: true,
@@ -27,7 +26,7 @@ const Wrapper = styled.div`
 `;
 
 const Header = styled.div`
-  min-height: 100vh;
+  min-height: 110vh;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -36,7 +35,7 @@ const Header = styled.div`
 
 const HeaderContent = styled.div`
   z-index: 5;
-  width: 90%;
+  width: 80%;
   margin: 0 auto;
   max-width: 1200px;
   display: flex;
@@ -90,7 +89,7 @@ const Heading = styled.div`
 
 const ActionsDiv = styled.div`
   width: 60%;
-  margin: 15px 0;
+  margin: 0px 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -107,7 +106,7 @@ const CTAButton = styled.div`
   border-radius: 5px;
   border: 2px solid ${(props) => props.theme.secondary};
   color: ${(props) => (props.currentTheme === "light" ? "black" : "white")};
-  font-weight: 500;
+  font-weight: 700;
   background-color: ${(props) => props.theme.secondary};
   transition: all 500ms ease;
   cursor: pointer;
@@ -125,7 +124,7 @@ const Profile = styled.div`
   background-size: cover;
   img {
     width: 100%;
-    border-radius: 30%;
+    border-radius: 50%;
   }
   @media (max-width: 1000px) {
     img {
@@ -139,7 +138,7 @@ const Scroller = styled.div`
   margin: 0px auto;
   width: 100px;
   @media (max-width: 1000px) {
-    /* display: none; */
+    // display: none;
     width: 50px;
   }
 `;
@@ -155,15 +154,15 @@ function Head({ currentTheme, themeToggler }) {
         <HeaderContent>
           <Heading>
             <ParagraphWrapper>
-              <h2>SUNIL KUMAR</h2>
+              <h2 style={{fontSize:'39px'}} >SUNIL KUMAR</h2>
             </ParagraphWrapper>
             <div>
               <h1>Full Stack Web Developer</h1>
             </div>
             <ParagraphWrapper>
               <p>
-                Hi, its nice to meet you. I am a full stack web developer residing
-                in Vaishali, Bihar, India.
+                Hi, it's nice to meet you. I am a full-stack web developer
+                residing in Vaishali, Bihar, India.
               </p>
             </ParagraphWrapper>
             <ActionsDiv>

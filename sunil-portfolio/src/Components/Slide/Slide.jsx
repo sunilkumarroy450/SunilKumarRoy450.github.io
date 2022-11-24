@@ -152,7 +152,7 @@ function Slide({ currentTheme }) {
           <Skill ></Skill>
         </SectionWrapper>
         <SectionWrapper>
-          <TimeLine currentTheme={currentTheme}></TimeLine>
+          {/* <TimeLine currentTheme={currentTheme}></TimeLine> */}
         </SectionWrapper>
         <SectionWrapper>
           <Projects></Projects>
@@ -177,7 +177,7 @@ function Slide({ currentTheme }) {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://drive.google.com/file/d/1IaBXrHMM_S-jkBP9CkuO9h9bfRUjv5kM/view?usp=sharing"
+                  href="https://drive.google.com/file/d/174bOiKzh1jnNKMtDVvMk1SSEMh-5C_ad/view?usp=sharing"
                   download
                 >
                   <ResumeButton>
