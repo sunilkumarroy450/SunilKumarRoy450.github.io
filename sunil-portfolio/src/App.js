@@ -10,7 +10,7 @@ import Head from "./Components/Head/Head";
 import Slide from "./Components/Slide/Slide";
 import lightHome from "./Components/Images/sceneOne.svg";
 import darkHome from "./Components/Images/sceneOneDark.svg";
-// import { GithubStats } from "./Components/Slide/GithubStats";
+import { GithubStats } from "./Components/Slide/GithubStats";
 
 // body: "#0a192f",
 // #a7bbc7
@@ -53,7 +53,7 @@ function App() {
         <Head currentTheme={currentTheme} themeToggler={themeToggler}></Head>
         <About></About>
         <Slide currentTheme={currentTheme}></Slide>
-        {/* <GithubStats currentTheme={currentTheme}/> */}
+        <GithubStats />
         <Contact currentTheme={currentTheme}></Contact>
         {/* <Footer></Footer> */}
       </div>
