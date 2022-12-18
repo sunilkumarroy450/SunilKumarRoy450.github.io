@@ -51,7 +51,7 @@ const NavItem = styled.div`
 const Grow = styled.div`
   flex-grow: 1;
   @media (max-width: 600px) {
-    display: none;
+    // display: none;
   }
 `;
 
