@@ -9,7 +9,7 @@ const NavBar = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  position:fixed;
+  position: fixed;
   height: 7vh;
   z-index: 1000;
   transition: all 300ms ease-out;
@@ -52,7 +52,7 @@ const NavItem = styled.div`
 const Grow = styled.div`
   flex-grow: 1;
   @media (max-width: 600px) {
-     display: none;
+    display: none;
   }
 `;
 
@@ -71,17 +71,17 @@ function Navigation({ themeToggler, currentTheme }) {
   return (
     <NavBar active={activeLink}>
       <Grow></Grow>
-      <NavItem onClick={() => activeLinkHandler(1)}> 
+      <NavItem onClick={() => activeLinkHandler(1)}>
         <a href="#about">About</a>
-      
+      </NavItem>
+      <NavItem onClick={() => activeLinkHandler(2)}>
+        <a href="#skills">Skills</a>
       </NavItem>
       <NavItem onClick={() => activeLinkHandler(3)}>
         <a href="#projects">Projects</a>
-       
       </NavItem>
       <NavItem onClick={() => activeLinkHandler(5)}>
         <a href="#resume">Resume</a>
-       
       </NavItem>
       <NavItem onClick={() => activeLinkHandler(6)}>
         <a href="#contact">Contact</a>

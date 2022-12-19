@@ -422,7 +422,7 @@ const Resume = (props) => {
       id={props.id || ""}
     >
       <div className="resume-content">
-        <MainHeadingWrapper>
+        <MainHeadingWrapper id="skills">
           <h1>Skills & Interests</h1>
           <div></div>
         </MainHeadingWrapper>
