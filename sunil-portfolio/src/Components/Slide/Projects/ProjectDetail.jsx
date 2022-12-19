@@ -49,7 +49,7 @@ const entranceAnimation = keyframes`
 `;
 
 const ProjectDetailWrapper = styled.div`
-  width: 93%;
+  width: 68%;
   max-width: 1000px;
   border-radius: 10px;
   padding: 20px 80px;
@@ -258,14 +258,14 @@ function ProjectDetail({
             <hr></hr>
           </MainHeadingWrapper>
         </div>
-        <CloseButton onClick={onCloseHandler}>
+        {/* <CloseButton onClick={onCloseHandler}>
           <div>
             <p>Close</p>
           </div>
           <div>
             <i className="far fa-times-circle"></i>
           </div>
-        </CloseButton>
+        </CloseButton> */}
       </div>
       <ProjectSection>
         <div>

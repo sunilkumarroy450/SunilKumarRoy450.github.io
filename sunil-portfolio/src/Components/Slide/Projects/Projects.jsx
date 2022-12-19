@@ -239,12 +239,12 @@ function Projects() {
         </MainHeadingWrapper>
         <div>
           {projectArray?.map((project) => (
-            <ProjectCard
+            <ProjectDetail
               key={project.title}
               setCurrentProject={setCurrentProject}
               setPanel={setPanel}
               {...project}
-            ></ProjectCard>
+            ></ProjectDetail>
           ))}
         </div>
         <Modal
