@@ -152,7 +152,7 @@ function Slide({ currentTheme }) {
           <Skill ></Skill>
         </SectionWrapper>
         <SectionWrapper>
-          {/* <TimeLine currentTheme={currentTheme}></TimeLine> */}
+          <TimeLine currentTheme={currentTheme}></TimeLine>
         </SectionWrapper>
         <SectionWrapper>
           <Projects></Projects>

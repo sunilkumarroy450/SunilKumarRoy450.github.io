@@ -9,12 +9,13 @@ const NavBar = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position:fixed;
   height: 7vh;
   z-index: 1000;
   transition: all 300ms ease-out;
   /* background-color: ${(props) => props.theme.body};
   color: ${(props) => props.theme.fontColor}; */
-  background-color: inherit;
+  background-color: black;
   color: inherit;
 `;
 
@@ -51,7 +52,7 @@ const NavItem = styled.div`
 const Grow = styled.div`
   flex-grow: 1;
   @media (max-width: 600px) {
-    // display: none;
+     display: none;
   }
 `;
 

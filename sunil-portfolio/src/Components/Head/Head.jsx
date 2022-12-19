@@ -26,7 +26,7 @@ const Wrapper = styled.div`
 `;
 
 const Header = styled.div`
-  min-height: 110vh;
+  min-height: 80vh;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -39,7 +39,7 @@ const HeaderContent = styled.div`
   margin: 0 auto;
   max-width: 1200px;
   display: flex;
-  margin: 0px auto;
+  margin: 50px auto;
   justify-content: space-between;
   align-items: center;
   /* background-color: #03192c; */
