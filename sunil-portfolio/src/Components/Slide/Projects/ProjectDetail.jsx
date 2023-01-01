@@ -12,6 +12,7 @@ import node from "../../Icons/node.svg";
 import express from "../../Icons/express.svg";
 import material from "../../Icons/material.svg";
 import next from "../../Icons/next.svg";
+import redux from "../../Icons/redux.svg"
 
 import {
   MainHeadingWrapper,
@@ -29,6 +30,7 @@ const techStackIcons = {
   Express: express,
   MaterialUI: material,
   NextJs: next,
+  Redux:redux
 };
 
 const entranceAnimation = keyframes`

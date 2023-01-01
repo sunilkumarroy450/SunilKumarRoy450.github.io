@@ -43,31 +43,70 @@ const BridgeTwo = styled.div`
 
 let projectArray = [
   {
-    img: "https://user-images.githubusercontent.com/101394814/200108387-785853b9-a635-4fd4-bf49-f5c359ec65ef.png",
-    title: "Shine.com",
+    img: "https://camo.githubusercontent.com/1f6d3dceac9c2546f58bf9e5e2254f3a40963803547c2711effe8096ee97ece9/68747470733a2f2f692e706f7374696d672e63632f6e5679343737646b2f53637265656e73686f742d3930352e706e67",
+    title: "Shop.com",
     description:
-      "Shine.com is the most innovative and second largest online job portal in India. It connects jobseekers and recruiters by accurately matching candidate profiles to the relevant job openings through an advanced 2-way matching technology.",
+      "SHOP.COM is a new kind of shopping comparison site that offers the most comprehensive shopping experience on the web. Our shopping experts have drawn on their industry experience and insider connections to bring you the best collection of the stores you can't live without, and the brands and products you love - all in one place.",
     techStack: [
       "HTML",
       "CSS",
       "JavaScript",
-      // "React",
-      // "MaterialUI",
-      // "Node",
-      // "Express",
-      // "MongoDB",
+      "React",
+      "Express",
+      "MongoDB",
+      "Node",
+      "Redux",
     ],
-    repoLink: "https://github.com/rituraj6/-slim-pen-3767",
-    demoLink: "https://shine-web-clone.netlify.app/",
-    type: "A collaborative project built by a team of 5 members under 4 days.",
-    // blogLink: "https://medium.com/@adityaraj9983/e-commerce-clone-purplle-com-b13ec4a9d9b2",
+    repoLink: "https://github.com/yadav123yo/FaydaBazar",
+    demoLink: "https://fayda-bazar.vercel.app/",
+    type: "A collaborative project built by a team of 5 members executed in 4 days.",
+    blogLink: "#",
     features: [
-      "Signup and Login.",
-      "Featured categorised drop-down method in navbar.",
-      "Sepicific payment page.",
-      "Product gallery.",
-      "User authentication.",
-      "Simple carousel",
+      "Functional Admin Page",
+      "User Authentication",
+      "Product Page ,Payment page and Checkout Page Functional",
+      "MongoDb used as a database",
+    ],
+    responsibilities: [
+      "Built Checkout Page with Otp functional and Chakra Modal",
+      "Responsive Page.",
+    ],
+  },
+  {
+    img: "https://user-images.githubusercontent.com/101394814/203414368-e7cf9831-8187-4a00-a81b-bdcd346b567f.png",
+    title: "Cult Fit ",
+    description:
+      "Operator of a fitness-based online platform designed to address preventive healthcare techniques. The company's platform addresses the concept of preventive healthcare through a combination of engagement, coaching, and delivery by offering services for mental wellness, healthy food, and fitness through its mobile application.",
+
+    techStack: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+
+      "Node",
+      "Express",
+      "MongoDB",
+      "Redux",
+    ],
+    repoLink:
+      "https://github.com/SunilKumarRoy450/quickest-seashore-9367-Cultfit.in-Clone",
+    demoLink: "https://cultfit-aayan269.vercel.app/",
+    type: "A collaborative project built by a team of 5 members executed in 4 days.",
+    // blogLink:
+    //   "https://ar1pperk.medium.com/building-a-bike-rental-website-from-scratch-28572c5565f7",
+    features: [
+      "Login and Signup",
+      "A user can choose a location wheather it offline or online after getting their membership ",
+      "User can hire the professional trainer according to their needs ",
+      "A user can choose monthly plans acording to their membership",
+      "A user can pay through online or cash to avail our services",
+      "All the order history is recorded in user profile",
+    ],
+    responsibilities: [
+      "Integrated slick-carousel",
+      "Developed the Mind page.",
+      "Responsive Page.",
     ],
   },
   {
@@ -96,57 +135,34 @@ let projectArray = [
     ],
   },
   {
-    img: "https://user-images.githubusercontent.com/101394814/203414368-e7cf9831-8187-4a00-a81b-bdcd346b567f.png",
-    title: "Cult Fit ",
+    img: "https://user-images.githubusercontent.com/101394814/200108387-785853b9-a635-4fd4-bf49-f5c359ec65ef.png",
+    title: "Shine.com",
     description:
-      "Operator of a fitness-based online platform designed to address preventive healthcare techniques. The company's platform addresses the concept of preventive healthcare through a combination of engagement, coaching, and delivery by offering services for mental wellness, healthy food, and fitness through its mobile application.",
-
+      "Shine.com is the most innovative and second largest online job portal in India. It connects jobseekers and recruiters by accurately matching candidate profiles to the relevant job openings through an advanced 2-way matching technology.",
     techStack: [
       "HTML",
       "CSS",
       "JavaScript",
-      "React",
-
-      "Node",
-      "Express",
-      "MongoDB",
+      // "React",
+      // "MaterialUI",
+      // "Node",
+      // "Express",
+      // "MongoDB",
     ],
-    repoLink:
-      "https://github.com/SunilKumarRoy450/quickest-seashore-9367-Cultfit.in-Clone",
-    demoLink: "https://cultfit-aayan269.vercel.app/",
-    type: "A collaborative project built by a team of 5 members executed in 4 days.",
-    // blogLink:
-    //   "https://ar1pperk.medium.com/building-a-bike-rental-website-from-scratch-28572c5565f7",
+    repoLink: "https://github.com/rituraj6/-slim-pen-3767",
+    demoLink: "https://shine-web-clone.netlify.app/",
+    type: "A collaborative project built by a team of 5 members under 4 days.",
+    // blogLink: "https://medium.com/@adityaraj9983/e-commerce-clone-purplle-com-b13ec4a9d9b2",
     features: [
-      "Login and Signup",
-      "A user can choose a location wheather it offline or online after getting their membership ",
-      "User can hire the professional trainer according to their needs ",
-      "A user can choose monthly plans acording to their membership",
-      "A user can pay through online or cash to avail our services",
-      "All the order history is recorded in user profile",
-    ],
-    responsibilities: [
-      "Integrated slick-carousel",
-      "Developed the Fitness and Mind page.",
-      "Responsive Page.",
+      "Signup and Login.",
+      "Featured categorised drop-down method in navbar.",
+      "Sepicific payment page.",
+      "Product gallery.",
+      "User authentication.",
+      "Simple carousel",
     ],
   },
 
-  {
-    img: "https://user-images.githubusercontent.com/101394814/203420230-0ca394b7-84bc-4667-b76d-6bf039944a0c.png",
-    title: "Himalaya Usa",
-    description:
-      "Himalaya has been passionate about the healing wisdom of herbs. We offer a wide range of clinically-studied herbal supplements, toothpaste and personal care products that unlock the powerful healing benefits of herbs.",
-    techStack: ["HTML", "CSS", "JavaScript"],
-    repoLink: "https://github.com/SunilKumarRoy450/webprobFind",
-    demoLink: "https://tangerine-starburst-8773f7.netlify.app/",
-    type: "Group project",
-    blogLink: "#",
-    features: [
-      "User can find their medication",
-      "User can avail wide range of products of herbs",
-    ],
-  },
   // {
   //   img: "https://user-images.githubusercontent.com/39058941/111019686-ec977e00-83e6-11eb-81e8-84625a9e7576.png",
   //   title: "Royal Brothers ",
