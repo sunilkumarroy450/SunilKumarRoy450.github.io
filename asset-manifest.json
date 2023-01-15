@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.6408f141.chunk.css",
-    "main.js": "/static/js/main.c2fdbfeb.chunk.js",
-    "main.js.map": "/static/js/main.c2fdbfeb.chunk.js.map",
+    "main.js": "/static/js/main.99844b04.chunk.js",
+    "main.js.map": "/static/js/main.99844b04.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.082984a3.js",
     "runtime-main.js.map": "/static/js/runtime-main.082984a3.js.map",
     "static/css/2.24f6e998.chunk.css": "/static/css/2.24f6e998.chunk.css",
-    "static/js/2.7633ac3a.chunk.js": "/static/js/2.7633ac3a.chunk.js",
-    "static/js/2.7633ac3a.chunk.js.map": "/static/js/2.7633ac3a.chunk.js.map",
+    "static/js/2.7cbb2aa8.chunk.js": "/static/js/2.7cbb2aa8.chunk.js",
+    "static/js/2.7cbb2aa8.chunk.js.map": "/static/js/2.7cbb2aa8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.24f6e998.chunk.css.map": "/static/css/2.24f6e998.chunk.css.map",
     "static/css/main.6408f141.chunk.css.map": "/static/css/main.6408f141.chunk.css.map",
-    "static/js/2.7633ac3a.chunk.js.LICENSE.txt": "/static/js/2.7633ac3a.chunk.js.LICENSE.txt",
-    "static/media/Sunil_updated-Resume.dd47a4c6.jpeg": "/static/media/Sunil_updated-Resume.dd47a4c6.jpeg",
+    "static/js/2.7cbb2aa8.chunk.js.LICENSE.txt": "/static/js/2.7cbb2aa8.chunk.js.LICENSE.txt",
+    "static/media/Sunil_updated-Resume.94763fd8.jpeg": "/static/media/Sunil_updated-Resume.94763fd8.jpeg",
     "static/media/bottom.5037b372.svg": "/static/media/bottom.5037b372.svg",
     "static/media/css.212d777a.svg": "/static/media/css.212d777a.svg",
     "static/media/day.137e9c17.svg": "/static/media/day.137e9c17.svg",
@@ -30,13 +30,13 @@
     "static/media/redux.0e4fb1c8.svg": "/static/media/redux.0e4fb1c8.svg",
     "static/media/sceneOne.b9eb96d1.svg": "/static/media/sceneOne.b9eb96d1.svg",
     "static/media/sceneOneDark.2d8044dc.svg": "/static/media/sceneOneDark.2d8044dc.svg",
-    "static/media/sunil.c4189494.jpeg": "/static/media/sunil.c4189494.jpeg"
+    "static/media/sunil.c6d03ed1.jpeg": "/static/media/sunil.c6d03ed1.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.082984a3.js",
     "static/css/2.24f6e998.chunk.css",
-    "static/js/2.7633ac3a.chunk.js",
+    "static/js/2.7cbb2aa8.chunk.js",
     "static/css/main.6408f141.chunk.css",
-    "static/js/main.c2fdbfeb.chunk.js"
+    "static/js/main.99844b04.chunk.js"
   ]
 }
