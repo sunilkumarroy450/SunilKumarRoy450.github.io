@@ -124,12 +124,12 @@ const Profile = styled.div`
   background-size: cover;
   img {
     width: 100%;
-    border-radius: 50%;
+    border-radius: 12%;
   }
   @media (max-width: 1000px) {
     img {
-      width: 60%;
-      border-radius: 50%;
+      width: 50%;
+      border-radius: 12%;
     }
   }
 `;
